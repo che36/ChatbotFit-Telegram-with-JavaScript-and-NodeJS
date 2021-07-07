@@ -1,0 +1,24 @@
+{
+  "name": "chatbotfit",
+  "version": "1.0.0",
+  "description": "Chatbot fit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/che36/ChatbotFit-Telegram-with-JavaScript-and-NodeJS.git"
+  },
+  "author": "César Constanzo Delizoicov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/che36/ChatbotFit-Telegram-with-JavaScript-and-NodeJS/issues"
+  },
+  "homepage": "https://github.com/che36/ChatbotFit-Telegram-with-JavaScript-and-NodeJS#readme",
+  "dependencies": {
+    "dialogflow": "^1.2.0",
+    "node-telegram-bot-api": "^0.53.0",
+    "youtube-node": "^1.3.3"
+  }
+}
